@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ToolBar1"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    android:background="#000"
+    app:title="ALL ABOUT IP "
+    app:titleTextColor="#F7E9E9"
+    app:titleMarginStart="120dp"
+    >
+
+</android.support.v7.widget.Toolbar>
